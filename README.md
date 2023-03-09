@@ -18,5 +18,6 @@ The government has created a robust health response and is working hard to ramp 
 
 #Functions List
 
-<img width="515" alt="Screenshot 2023-03-09 at 9 50 10 PM" src="https://user-images.githubusercontent.com/70438869/224086367-a56f6b3f-0f1d-49e1-a722-c9ae7396ddda.png">
+<img width="515" alt="Screenshot 2023-03-09 at 9 54 20 PM" src="https://user-images.githubusercontent.com/70438869/224087407-c75e5f59-1dd2-476f-a600-6e14f1a4e98b.png">
+
 <img width="515" alt="Screenshot 2023-03-09 at 9 52 07 PM" src="https://user-images.githubusercontent.com/70438869/224086835-e5d37d6b-8988-4f21-ac84-d9b34b3e1216.png">
