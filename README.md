@@ -7,3 +7,9 @@ The prompt runs on the basis of simple health related statistics, which it uses 
 user is highly likely to be infected, in addition to sending emergency messages to the user’s primary contacts.
 This automation incorporated by the program ensures that any individual likely to be affected is provided with professional help as soon as possible. The health report provided to authorities ensures that they are aware of the seriousness of the patient.
 The government has created a robust health response and is working hard to ramp up its testing and flatten the curve. We play a huge role in tackling this pandemic by being well informed about the COVID-19 virus, its symptoms and how it spreads. Taking proper precautions such as wearing masks, applying sanitizers frequently and practicing social distancing makes a huge difference and the Covid Quarantine Assistance program was created to play its role in this change.
+
+
+
+
+
+<img width="394" alt="Screenshot 2023-03-09 at 9 36 57 PM" src="https://user-images.githubusercontent.com/70438869/224083016-294ee78d-b74b-423f-8f4c-ea893c224860.png">
