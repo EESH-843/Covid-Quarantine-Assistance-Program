@@ -225,5 +225,92 @@ def variables():
       return True
     else:
       return False
+  def exists_phone():
+   mycursor.execute("select contact_no from users") tab=mycursor.fetchall()
+   u=[]
+   for i in tab:
+    u.append(i[0])
+    for z in u:
+     if z==n6: 
+      return True
+     else:
+      return False
   def validate():
+   duplicatemails=False
+   e_mails=[n7,n11,n13,n15]
+   e_mails_set=set(e_mails)
+   
+   if n1!="" and n2!="" and n3!="" and n4!="" and n5!="" and n6!="" a nd n7!="" and n8!="" and n9!="" and n10!="" and n11!="" and n12!="" and n13!="" and n14!="" and n15!="" and n17!="SELECT" and n19!="":
+    if exists_id()==True:
+     messagebox.showinfo('Error-Username', "This username is already taken.")
+     
+    if exists_email()==True: print(n7)
+     messagebox.showinfo('Error-Email', "The entered email-id aldreday exists. Please login.")
+   
+    if exists_phone()==True:
+     messagebox.showinfo('Error-Contact Number', "This contact number is already taken.")
     
+    a=n1.split()
+    b=n10.split()
+    c=n12.split()
+    d=n12.split()
+    for i in a:
+     if i!=" " and i.isalpha()==False :
+      messagebox.showinfo('Error- Name',"Enter alphabets only")
+    for i in b:
+     if i!=" " and i.isalpha()==False :
+      messagebox.showinfo('Error- Name',"Enter alphabets only")
+    for i in c:
+     if i!=" " and i.isalpha()==False :
+      messagebox.showinfo('Error- Name',"Enter alphabets only")
+    for i in d:
+     if i!=" " and i.isalpha()==False :
+      messagebox.showinfo('Error- Name',"Enter alphabets only")
+      
+      
+    if len(n3)< 8:
+     messagebox.showinfo('Error- login',"Password should be greater than 8 characters")
+    if n3!=n4:
+     messagebox.showinfo('Error- password',"Passwords do not match")
+    if len(n6)!=10 :
+     messagebox.showinfo('Error- contact',"contact number should be 10 digits only")
+    if len(n9)< 10 :
+     messagebox.showinfo('Error- address',"Please enter valid address")
+    if n6.isdigit()==False:
+     messagebox.showinfo('Error- contact',"Enter numeric characters only")
+    if check(n7)==False or check(n11)==False or check(n13)==False or check(n15)==False:
+     messagebox.showinfo('Error- Email',"Invalid email, Please enter a valid email")
+    if n8.isdigit()==False:
+     messagebox.showinfo('Error-age',"Enter a valid age")
+    if len(e_mails)!=len(e_mails_set):
+     duplicatemails=True
+     messagebox.showinfo('Error- Email',"Emails can not be repeated")
+     
+     
+     if n1.isalpha()==True and n10.isalpha()==True and n12.isalpha()= =True and n14.isalpha()==True and len(n3)>=8 and n3==n4 and len(n6)==10 and n6. isdigit()==True and check(n7)==True and check(n11)==True and check(n13)==True and check(n15)==True and exists_id()==False and exists_email()==False and exists _phone()==False and duplicatemails==False:
+      sql = "INSERT INTO users (name,username,pwd,cpwd,gender,cont act_no,email,age,address,pricon1_name,pricon1_email,pricon2_name,pricon2_email, pricon3_name,pricon3_email,med_disorder,bld_grp,algy,treat_speci) VALUES (%s, % s,%s, %s,%s, %s,%s, %s,%s, %s,%s, %s,%s, %s,%s, %s,%s,%s,%s)"
+      val = (n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n1 6,n17,n18,n20)
+      mycursor.execute(sql, val)
+      mydb.commit()
+      messagebox.showinfo('Login',"account created")
+      
+      else:
+       messagebox.showinfo('Error-fields',"Fill all required fields (all except medical disorder, allergy, specia l treatment)")
+def details():
+ variables()
+ validate()
+def select0():
+ tc.select(0)
+canvas = tk.Canvas(page1, width=1280, height=720)
+canvas.grid()
+f_back=Image.open("bgwhite2.jpg")
+resize=f_back.resize((1280,800),Image.ANTIALIAS)
+n=ImageTk.PhotoImage(resize)
+canvas.create_image(633,324, image=n)
+register=tk.Label(page1,fg="black",text="CREATE NEW ACCOUNT",bg="white", font="Georgia 20 bold").place(x=60,y=50)      
+
+
+#name;
+
+
+
