@@ -26,16 +26,16 @@ The government has created a robust health response and is working hard to ramp 
 ##System Requirements
 
 The following is a comprehensive list of the minimum system requirements to be able to execute this project successfully--
- Windows or MacOS operating system
- Python version<3.9
- Mysql
- Source Code
- Internet connection
- Hard disc space - at least 2MB
- Computer peripherals such as keyboard and mouse
-The following libraries must be installed to python (if not pre installed) through pip install command--
- tkinter
- mysql python connector
- smtplib
- csv
- pillow
+###Windows or MacOS operating system
+-Python version<3.9
+-Mysql
+-Source Code
+-Internet connection
+-Hard disc space - at least 2MB
+-Computer peripherals such as keyboard and mouse
+###The following libraries must be installed to python (if not pre installed) through pip install command--
+-tkinter
+-mysql python connector
+-smtplib
+-csv
+-pillow
