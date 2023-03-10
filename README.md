@@ -23,19 +23,23 @@ The government has created a robust health response and is working hard to ramp 
 <img width="515" alt="Screenshot 2023-03-09 at 9 52 07 PM" src="https://user-images.githubusercontent.com/70438869/224086835-e5d37d6b-8988-4f21-ac84-d9b34b3e1216.png">
 
 
-##System Requirements
+<h3>System Requirements</h3>
+<p1>
 
 The following is a comprehensive list of the minimum system requirements to be able to execute this project successfully--
-###Windows or MacOS operating system
+Windows or MacOS operating system
 -Python version<3.9
--Mysql
+-Mysql 
 -Source Code
 -Internet connection
 -Hard disc space - at least 2MB
 -Computer peripherals such as keyboard and mouse
-###The following libraries must be installed to python (if not pre installed) through pip install command--
+
+
+The following libraries must be installed to python (if not pre installed) through pip install command--
 -tkinter
 -mysql python connector
 -smtplib
 -csv
 -pillow
+</p1>
