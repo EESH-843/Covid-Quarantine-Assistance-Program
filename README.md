@@ -19,7 +19,6 @@
 <br />
 
 ### System Requirements
-<br />
 The following is a comprehensive list of the minimum system requirements to be able to execute this project successfully--
 Windows or MacOS operating system
 - [x] Python version<3.9
@@ -42,9 +41,8 @@ Windows or MacOS operating system
 
 <img width="515" alt="Screenshot 2023-03-09 at 9 54 20 PM" src="https://user-images.githubusercontent.com/70438869/224087407-c75e5f59-1dd2-476f-a600-6e14f1a4e98b.png">
 
+
 <img width="515" alt="Screenshot 2023-03-09 at 9 52 07 PM" src="https://user-images.githubusercontent.com/70438869/224086835-e5d37d6b-8988-4f21-ac84-d9b34b3e1216.png">
-
-
 
 <br />
 
