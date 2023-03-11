@@ -17,6 +17,7 @@ The government has created a robust health response and is working hard to ramp 
 <br />
 
 ### System Requirements
+<br />
 The following is a comprehensive list of the minimum system requirements to be able to execute this project successfully--
 Windows or MacOS operating system
 - [x] Python version<3.9
@@ -35,7 +36,7 @@ Windows or MacOS operating system
 
 <br />
 
-## Functions List
+## List of Functions
 
 <img width="515" alt="Screenshot 2023-03-09 at 9 54 20 PM" src="https://user-images.githubusercontent.com/70438869/224087407-c75e5f59-1dd2-476f-a600-6e14f1a4e98b.png">
 
