@@ -24,7 +24,7 @@ The government has created a robust health response and is working hard to ramp 
 
 
 ### System Requirements
-<br/>
+
 The following is a comprehensive list of the minimum system requirements to be able to execute this project successfully--
 Windows or MacOS operating system
 - [x] Python version<3.9
@@ -40,3 +40,5 @@ Windows or MacOS operating system
 - [x] -smtplib
 - [x] -csv
 - [x] -pillow
+
+<br/>
