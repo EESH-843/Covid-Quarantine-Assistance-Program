@@ -13,9 +13,9 @@
 <br />
 
 
-
+<div align="center">
 <img width="394" alt="Screenshot 2023-03-09 at 9 36 57 PM" src="https://user-images.githubusercontent.com/70438869/224083016-294ee78d-b74b-423f-8f4c-ea893c224860.png">
-
+</div>
 <br />
 
 ### System Requirements
