@@ -1,5 +1,14 @@
 # Covid Quarantine Assistance Program
 
+<div align="center">
+<img width="362" alt="Screenshot 2023-03-11 at 10 25 13 PM" src="https://user-images.githubusercontent.com/70438869/224497639-458bb9b5-9ee9-422d-85cf-4081ffef41a8.png">
+</div>
+
+
+
+## A project that was built to assist old-age people in specific during the covid-quarantine
+
+
 The arrival of the corona virus pandemic was unprecedented, unparalleled and a rather complicated scenario. It affected the lives of millions in India and around the world. There was great skepticism about the situation when people first learned about the virus. With countries enforcing lockdowns and the number of cases increasing rapidly, the entire world seemed to be in turmoil. The group of people affected most is the elderly. Due to weaker immune systems, senior citizens are more likely to be infected with the virus. They account for around 80% of all COVID-19 deaths in the US.
 Moreover, many older people who live alone face a greater level of difficulty as it is a challenge for them to take precautions, identify the symptoms and act accordingly. Those with physical disabilities may not be able to reach the closest hospital for a check-up. Even if they manage to reach one, the havoc of most Indian hospitals will not be the most comfortable setting for them.
 Covid Quarantine Assistance program has been created to provide aid to senior citizens and other individuals amidst the pandemic. The program will help those who have minor symptoms and wish to determine if they’re infected but can’t approach hospitals to get professionally checked, or perhaps aren’t knowledgeable about the symptoms. Although the program is not capable of providing a definitive result of presence of the virus as a professional COVID test does, it will help users to identify if they’re likely infected with COVID- 19.
