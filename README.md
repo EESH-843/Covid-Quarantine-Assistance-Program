@@ -10,7 +10,7 @@
 
 
 <figure class="video_container">
-<iframe src="[https://docs.google.com/document/d/14dyvy2RzCU1aRTcy3E9SScnz3NQs6Bu9gJxk593DUzI/edit](https://docs.google.com/document/d/14dyvy2RzCU1aRTcy3E9SScnz3NQs6Bu9gJxk593DUzI/edit?usp=sharing)"></iframe>
+<iframe src="https://docs.google.com/document/d/14dyvy2RzCU1aRTcy3E9SScnz3NQs6Bu9gJxk593DUzI/edit"></iframe>
 </figure>
 
 
