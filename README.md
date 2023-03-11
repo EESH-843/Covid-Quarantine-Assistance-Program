@@ -8,8 +8,8 @@
 
 ## A project that was built to assist old-age people in specific during the covid-quarantine
 
-<a href="https://docs.google.com/document/d/14dyvy2RzCU1aRTcy3E9SScnz3NQs6Bu9gJxk593DUzI/edit?usp=sharing" target="_blank">To read more about the project click here</a>
-
+<p>To read more about the project <a href="https://docs.google.com/document/d/14dyvy2RzCU1aRTcy3E9SScnz3NQs6Bu9gJxk593DUzI/edit?usp=sharing" target="_blank">click here</a>
+</p>
 <br />
 
 
