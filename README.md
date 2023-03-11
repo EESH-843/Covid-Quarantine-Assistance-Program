@@ -34,7 +34,7 @@ Windows or MacOS operating system
 - [x] Computer peripherals such as keyboard and mouse
       The following libraries must be installed to python (if not pre installed) through 
       pip install command--
-List Of modules
+###List Of modules
 - [x] -tkinter
 - [x] -mysql python connector
 - [x] -smtplib
