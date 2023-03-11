@@ -14,17 +14,6 @@ The government has created a robust health response and is working hard to ramp 
 
 <img width="394" alt="Screenshot 2023-03-09 at 9 36 57 PM" src="https://user-images.githubusercontent.com/70438869/224083016-294ee78d-b74b-423f-8f4c-ea893c224860.png">
 
-
-
-#Functions List
-
-<img width="515" alt="Screenshot 2023-03-09 at 9 54 20 PM" src="https://user-images.githubusercontent.com/70438869/224087407-c75e5f59-1dd2-476f-a600-6e14f1a4e98b.png">
-
-<img width="515" alt="Screenshot 2023-03-09 at 9 52 07 PM" src="https://user-images.githubusercontent.com/70438869/224086835-e5d37d6b-8988-4f21-ac84-d9b34b3e1216.png">
-
-
-### System Requirements
-
 The following is a comprehensive list of the minimum system requirements to be able to execute this project successfully--
 Windows or MacOS operating system
 - [x] Python version<3.9
@@ -42,3 +31,14 @@ Windows or MacOS operating system
 - [x] -pillow
 
 <br/>
+
+###Functions List
+
+<img width="515" alt="Screenshot 2023-03-09 at 9 54 20 PM" src="https://user-images.githubusercontent.com/70438869/224087407-c75e5f59-1dd2-476f-a600-6e14f1a4e98b.png">
+
+<img width="515" alt="Screenshot 2023-03-09 at 9 52 07 PM" src="https://user-images.githubusercontent.com/70438869/224086835-e5d37d6b-8988-4f21-ac84-d9b34b3e1216.png">
+
+
+### System Requirements
+
+
