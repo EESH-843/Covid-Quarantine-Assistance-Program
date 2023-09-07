@@ -1,4 +1,5 @@
 # Covid Quarantine Assistance Program
+<p>This repository contains the code for the Covid Quarantine Assistance program, designed to aid individuals, particularly senior citizens, during the unprecedented COVID-19 pandemic. The program offers a health assessment based on simple statistics to determine the likelihood of infection. While it doesn't replace professional testing, it serves as a valuable tool for those with minor symptoms or limited access to hospitals. In cases of high likelihood, the program contacts COVID-19 authorities for further assistance and notifies the user's primary contacts. It complements government efforts to combat the pandemic by promoting informed awareness and preventive measures like mask-wearing, sanitizer use, and social distancing.</p>
 
 <div align="center">
 <img width="362" alt="Screenshot 2023-03-11 at 10 25 13 PM" src="https://user-images.githubusercontent.com/70438869/224497639-458bb9b5-9ee9-422d-85cf-4081ffef41a8.png">
